@@ -1,4 +1,9 @@
+// internal host
 host-suffix, crypto.com, WorkingDebug
 host-suffix, mona.co, WorkingDebug
 host-suffix, 3ona.co, WorkingDebug
+
+// dapp host
 host-suffix, stellar.org, WorkingDebug
+host-suffix, metis.io, WorkingDebug
+host-suffix, telos.net, WorkingDebug
