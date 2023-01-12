@@ -11,3 +11,6 @@ host-suffix, 1inch.io, 个人收集
 
 // personal host
 host-suffix, githubusercontent.com, 个人收集
+
+// special
+host-suffix, gateway.icloud.com, Direct
