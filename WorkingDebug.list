@@ -19,3 +19,5 @@ host-suffix, archiveofourown.org, 个人收集
 
 // special
 host, gateway.icloud.com, Direct
+host, callmedoby.oicp.io, Direct
+host, synology.me, Direct
